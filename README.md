@@ -1,3 +1,6 @@
+# Pages
+1. [another_list.md](another_list.md)
+
 # interesting_list
 This is an interesting list
 
